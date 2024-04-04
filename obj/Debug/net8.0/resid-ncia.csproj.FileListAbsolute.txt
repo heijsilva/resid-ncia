@@ -1,0 +1,15 @@
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.AssemblyInfoInputs.cache
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.AssemblyInfo.cs
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.sourcelink.json
+C:\Users\Joao\Documents\GitHub\resid-ncia\bin\Debug\net8.0\resid-ncia.exe
+C:\Users\Joao\Documents\GitHub\resid-ncia\bin\Debug\net8.0\resid-ncia.deps.json
+C:\Users\Joao\Documents\GitHub\resid-ncia\bin\Debug\net8.0\resid-ncia.runtimeconfig.json
+C:\Users\Joao\Documents\GitHub\resid-ncia\bin\Debug\net8.0\resid-ncia.dll
+C:\Users\Joao\Documents\GitHub\resid-ncia\bin\Debug\net8.0\resid-ncia.pdb
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.dll
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\refint\resid-ncia.dll
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.pdb
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\resid-ncia.genruntimeconfig.cache
+C:\Users\Joao\Documents\GitHub\resid-ncia\obj\Debug\net8.0\ref\resid-ncia.dll
